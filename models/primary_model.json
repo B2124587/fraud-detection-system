@@ -1,0 +1,32 @@
+{
+  "model_name": "random_forest",
+  "trained_at": "2026-07-01T07:56:24.738823",
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "auc_roc": 1.0,
+    "mcc": 1.0
+  },
+  "feature_cols": [
+    "amount_to_avg_ratio",
+    "kyc_limit_exceeded",
+    "txn_velocity_1h",
+    "txn_velocity_24h",
+    "velocity_anomaly",
+    "is_new_device",
+    "is_new_beneficiary",
+    "new_device_new_beneficiary",
+    "sim_swap_flag_72h",
+    "pin_change_recent",
+    "location_deviation_km_norm",
+    "location_deviation_flag",
+    "off_hours_flag",
+    "smishing_signal_30min",
+    "smishing_probability",
+    "agent_complaint_rate",
+    "agent_complaint_elevated",
+    "receiver_on_blocklist"
+  ]
+}
