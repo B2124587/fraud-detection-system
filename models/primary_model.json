@@ -1,13 +1,13 @@
 {
   "model_name": "random_forest",
-  "trained_at": "2026-07-01T07:56:24.738823",
+  "trained_at": "2026-07-02T02:26:42.978133",
   "metrics": {
-    "accuracy": 1.0,
+    "accuracy": 0.9993,
     "precision": 1.0,
-    "recall": 1.0,
-    "f1_score": 1.0,
+    "recall": 0.9778,
+    "f1_score": 0.9888,
     "auc_roc": 1.0,
-    "mcc": 1.0
+    "mcc": 0.9885
   },
   "feature_cols": [
     "amount_to_avg_ratio",

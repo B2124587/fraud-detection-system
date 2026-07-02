@@ -1,0 +1,12 @@
+BoZ Compliance Report,Period: 2026-06-02 to 2026-07-02,Generated: 2026-07-02T02:12:38.177939
+
+Metric,Value
+Total Transactions,2
+Total Flagged Alerts,1
+Confirmed Fraud Cases,0
+False Positives,1
+Total Fraud Amount (ZMW),0.00
+Detection Precision,0.00%
+
+Alert ID,Transaction ID,Status,Amount (ZMW),Risk Score,Fraud Type,Resolved At
+ab4971f2-98e6-4a57-982a-9ee2077ba670,ba097f91-f4e5-4026-a874-ae7a9eb58178,FALSE_POSITIVE,12000.0,22,SIM_SWAP,2026-07-02T02:12:37.656384
